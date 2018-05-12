@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '9396'
     url: http://www.gutenberg.org/2009/agents/9396
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20571#Woman-s-Work-in-Music
 gutenberg_bookshelf: Music
 gutenberg_issued: '2007-02-12'
 gutenberg_type: Text
